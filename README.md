@@ -27,7 +27,7 @@ If you have any questions or suggestions please contact me at coderchrisdean@gma
 
 ## Link to Deployed Application
 
-<https://coderchrisdean.github.io/cd-port/>
+https://coderchrisdean.github.io/cd-port/
 
 ## Link to GitHub Repository
 
